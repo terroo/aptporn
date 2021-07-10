@@ -5,7 +5,7 @@ Linux Mint, Ubuntu and Debian install [bspwm](https://github.com/baskerville/bsp
 
 # Installation
 ```sh
-git clone https://github/terroo/aptporn
+git clone https://github.com/terroo/aptporn
 cd aptporn/
 sh aptporn --install
 ```
@@ -19,8 +19,7 @@ Wait until the script ends. For more information run: `./aptporn --help`.
 
 # Uninstall
 ```sh
-git clone https://github/terroo/aptporn
+git clone https://github.com/terroo/aptporn
 cd aptporn/
 sh aptporn --uninstall
 ```
-
